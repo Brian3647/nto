@@ -12,3 +12,9 @@ $ nto bin 255
 $ nto b64 61
 z
 ```
+
+## Install
+
+```
+cargo install --git https://github.com/Brian3647/nto.git
+```
